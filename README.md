@@ -4,7 +4,7 @@
 
 *A Smart and Adaptive Driver Monitoring and Assistance System based on Facial Landmarking & Deep Learning.*
 
-[Demo Video](https://youtu.be/GD053njx0fU)
+[Demo Video](https://drive.google.com/file/d/12zwad21e7aZ0ogd5yTeGwNPSOnULHWgB/view?usp=sharing)
 
 ### Features
 
@@ -22,12 +22,12 @@
 *The Code is primarily designed to run on Raspberry Pi, but can be used on Mac OS or Windows.*
 
 * Download all the Dependencies using the command `pip3 install -r requirements.txt`
-* Download the Code or Run the following command to download it `git pull https://github.com/saksham2001/ADAS`
+* Download the Code or Run the following command to download it `git pull https://github.com/anshu1905/Hackathon`
 
 
 ### Running
 
-* Use the following command to the Code `python3 app.py`
+* Use the following command to the Code `python3 adams-Visual Detection System.py`
 
 ### Screenshots
 ![Screenshot 1](Screenshots/scr1.jpeg)
